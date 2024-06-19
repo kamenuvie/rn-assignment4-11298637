@@ -23,4 +23,4 @@ Android Studio
 # Screenshot of final project
 ![Screenshot_1718661178](https://github.com/kamenuvie/rn-assignment4-11298637/assets/170736194/20654996-b42e-4922-9e9b-4c4e58cef20a)
 
-![Screenshot_1718832743](https://github.com/kamenuvie/rn-assignment4-11298637/assets/170736194/b3b19190-5cdc-4581-9bec-64741fa23808)
+![Screenshot_1718832743](https://github.com/kamenuvie/rn-assignment4-11298637/assets/170736194/9259e6d9-51ed-49bf-aff4-857c2650925c)
