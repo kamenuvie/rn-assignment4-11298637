@@ -21,6 +21,8 @@ Android Studio
 -npm run --(android|ios|web)
 
 # Screenshot of final project
-![Screenshot_1718661178](https://github.com/kamenuvie/rn-assignment4-11298637/assets/170736194/20654996-b42e-4922-9e9b-4c4e58cef20a)
 
-![Screenshot_1718832866](https://github.com/kamenuvie/rn-assignment4-11298637/assets/170736194/c74dbeee-8924-4a8b-b739-70a41c96fdce)
+![Screenshot 2024-06-19 213940](https://github.com/kamenuvie/rn-assignment4-11298637/assets/170736194/9b1b13b7-6ee5-43ea-8f4a-a29ca2a7a066)
+
+
+![Screenshot 2024-06-19 213923](https://github.com/kamenuvie/rn-assignment4-11298637/assets/170736194/e0bea065-272a-4f09-8521-50dac0b0969e)
